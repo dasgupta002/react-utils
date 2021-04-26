@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+.App {
+  background-color: #eee;
+  margin-top: -30px;
+  text-align: center;
+  height: 733px;
+  font-family: 'Original Surfer', cursive;
+}
+
+h4{
+  padding-top: 100px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+}
